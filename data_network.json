@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": 1,
-      "name": "A"
+      "name": "A",
        "defintion": "Making one solution work for multiple problems by making it more general.
          (Process): The process of taking out details that are not important to the problem. 
             This lets us focus on the main idea/useful details and makes the problem less complicated.
@@ -11,47 +11,47 @@
     },
     {
       "id": 2,
-      "name": "B"
+      "name": "B",
       "defintion": ""
     },
     {
       "id": 3,
-      "name": "C"
+      "name": "C",
       "defintion": ""
     },
     {
       "id": 4,
-      "name": "D"
+      "name": "D",
       "defintion": ""
     },
     {
       "id": 5,
-      "name": "E"
+      "name": "E",
       "defintion": ""
     },
     {
       "id": 6,
-      "name": "F"
+      "name": "F",
       "defintion": ""
     },
     {
       "id": 7,
-      "name": "G"
+      "name": "G",
       "defintion": ""
     },
     {
       "id": 8,
-      "name": "H"
+      "name": "H",
       "defintion": ""
     },
     {
       "id": 9,
-      "name": "I"
+      "name": "I",
       "defintion": ""
     },
     {
       "id": 10,
-      "name": "J"
+      "name": "J",
       "defintion": ""
     }
   ],
