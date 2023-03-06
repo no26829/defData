@@ -134,7 +134,7 @@
     {
       "id": 27,
       "name": "Decryption",
-      "definition": "The opposite of encryption. To convert data that has been written using a secret key, back to a language we can understand. The process of changing a coded message back to a language that you or the computer can understand. It is the opposite of encryption, where you are converting information into a code."
+      "definition": ["The opposite of encryption. To convert data that has been written using a secret key, back to a language we can understand."," The process of changing a coded message back to a language that you or the computer can understand. It is the opposite of encryption, where you are converting information into a code."]
     },
     {
       "id": 28,
