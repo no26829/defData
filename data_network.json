@@ -24,7 +24,7 @@
     {
       "id": 5,
       "name": "ASCII",
-      "definition": "(American Standard Code for Information Interchange) is the way most text files are written on computers and the Internet. In an ASCII file, each letter, number or special character is represented by a code, a string of seven 0s or 1s (also known as a 7-bit binary number)."
+      "definition": ["(American Standard Code for Information Interchange) is the way most text files are written on computers and the Internet."," In an ASCII file, each letter, number or special character is represented by a code, a string of seven 0s or 1s (also known as a 7-bit binary number)."]
     },
     {
       "id": 6,
@@ -49,12 +49,12 @@
     {
       "id": 10,
       "name": "Block-based programming language",
-      "definition": "Any programming language that lets users make programs by dragging and dropping blocks, instead of writing code using text. (Also known as visual coding, drag and drop programming, or graphical programming blocks)"
+      "definition": ["Any programming language that lets users make programs by dragging and dropping blocks, instead of writing code using text.", " (Also known as visual coding, drag and drop programming, or graphical programming blocks)"]
     },
     {
       "id": 11,
       "name": "Bug",
-      "definition": "An error in a software program. It can cause a program to stop working or act in a way it is not supposed to. Removing errors (bugs) is called debugging."
+      "definition": ["An error in a software program. ", " It can cause a program to stop working or act in a way it is not supposed to. Removing errors (bugs) is called debugging."]
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
     {
       "id": 19
       "name": "Computational thinking",
-      "definition": "A way of solving complicated problems and creating solutions that a computer can understand. Strategies include decomposition (breaking problems into smaller pieces), pattern matching, abstraction (making changes that allow one solution to work for multiple problems), and algorithms (instructions that a computer can use)."
+      "definition": ["A way of solving complicated problems and creating solutions that a computer can understand."," Strategies include decomposition (breaking problems into smaller pieces), pattern matching, abstraction"," (making changes that allow one solution to work for multiple problems), and algorithms (instructions that a computer can use)."]
     },
     {
       "id": 20
@@ -144,12 +144,12 @@
     {
       "id": 29,
       "name": "Encode",
-      "definition": "To convert messages or information into another form using a code. This is different from encryption, because this code is available to the public and the goal is to make data easier to work with for computers or humans."
+      "definition": ["To convert messages or information into another form using a code. ","This is different from encryption, because this code is available to the public and the goal is to make data easier to work with for computers or humans."]
     },
     {
       "id": 30,
       "name": "Encryption",
-      "definition": "To change messages or information into a code. This is different from encode,  because this code is only known by the two groups who have the key; it is used to keep data private."
+      "definition": ["To change messages or information into a code. This is different from encode, "," because this code is only known by the two groups who have the key; it is used to keep data private."]
     },
     {
       "id": 31,
@@ -168,8 +168,8 @@
     },
     {
       "id": 34,
-      "name": "Function: A piece of code that you can easily call over and over again. Each time a function is called, a specific set of instructions will be followed. Note",
-      "definition": "This definition differs from that used in math. Also known as a subroutine."
+      "name": "Function:",
+      "definition": ["A piece of code that you can easily call over and over again. Each time a function is called,"," a specific set of instructions will be followedThis definition differs from that used in math. Also known as a subroutine."]
     },
     {
       "id": 35,
@@ -289,7 +289,7 @@
     {
       "id": 58,
       "name": "Pair programming",
-      "definition": "When two people work together on one computer to code. One person, the driver writes the code, and the navigator reviews and checks if the code is right. Then, after some time, they switch roles."
+      "definition": ["When two people work together on one computer to code. One person, the driver writes the code,"," and the navigator reviews and checks if the code is right. Then, after some time, they switch roles."]
     },
     {
       "id": 58,
@@ -439,7 +439,7 @@
     {
       "id": 87,
       "name": "Topology",
-      "definition": "A special kind of map that focuses on showing the connections that exist between different things. For example, an internet topology would look at how different computers are connected together with data links."
+      "definition":[ "A special kind of map that focuses on showing the connections that exist between different things."," For example, an internet topology would look at how different computers are connected together with data links."]
     },
     {
       "id": 88,
