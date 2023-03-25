@@ -13,7 +13,8 @@
     },
     {
       "id": 3,
-      "name": "C"
+      "name": "App"
+      "def" :  "A type of application software, often meant to run on a mobile device, such as a phone or computer."
     },
     {
       "id": 4,
