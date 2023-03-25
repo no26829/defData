@@ -77,27 +77,27 @@
       "definition": "Any instructions written in a programming language to be given to a computer to follow. See also: program, commands, algorithm"
     }, 
       {
-      "id": 16
+      "id": 16,
       "name": "Command",
       "definition": "An instruction for the computer. Algorithms and computer programs are made by putting many commands together."
     },
     {
-      "id": 17
+      "id": 17,
       "name": "Computational artifact",
       "definition": "Anything created by a human using computational thinking and a computing device. Examples include an image, audio, video, presentation, or web page file."
     },
     {
-      "id": 18
+      "id": 18,
       "name": "Computational models",
       "definition": "Computational modeling is the use of computers to simulate and study difficult systems using math and computer science."
     },
     {
-      "id": 19
+      "id": 19,
       "name": "Computational thinking",
       "definition": ["A way of solving complicated problems and creating solutions that a computer can understand."," Strategies include decomposition (breaking problems into smaller pieces), pattern matching, abstraction"," (making changes that allow one solution to work for multiple problems), and algorithms (instructions that a computer can use)."]
     },
     {
-      "id": 20
+      "id": 20,
       "name": "Computer science",
       "definition": "The study of how computers and programs work and how they are created and used."
     },
