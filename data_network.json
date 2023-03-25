@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Abstraction",
-       "definition": "Making one solution work for multiple problems by making it more general"
+      "definition": "Making one solution work for multiple problems by making it more general"
     },
     {
       "id": 2,
@@ -253,8 +253,8 @@
     },
     {
       "id": 51,
-      "name": "Model: A representation of (some part of) a problem or a system. Note",
-      "definition": "This definition differs from that used in science."
+      "name": "Model",
+      "definition": "A representation of (some part of) a problem or a system. Note: This definition differs from that used in science."
     },
     {
       "id": 52,
