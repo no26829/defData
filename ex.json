@@ -8,7 +8,8 @@
     {
       "id": 2,
       "name": "Algorithm",
-      "def": "A list of steps to finish a task. A set of instructions that can be done with or without a computer. For example, a list of steps to make a peanut butter and jelly sandwich is an algorithm."
+      "def":  ["A list of steps to finish a task. A set of instructions that can be done with or without a computer."," For example, a list of steps to make a peanut butter and jelly sandwich is an algorithm."]
+
     },
     {
       "id": 3,
