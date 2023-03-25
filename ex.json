@@ -3,11 +3,12 @@
     {
       "id": 1,
       "name": "Abstraction",
-      "def": "cheese cehese cheese cheese chese eese cehese cheese cheese cheseese cehese cheese cheese ches eese cehese cheese cheese ches eese cehese cheese cheese cheseese cehese cheese cheese ches"
+      "def": "Making one solution work for multiple problems by making it more general"
     },
     {
       "id": 2,
-      "name": "B"
+      "name": "Algorithm",
+      "def": "A list of steps to finish a task. A set of instructions that can be done with or without a computer. For example, a list of steps to make a peanut butter and jelly sandwich is an algorithm."
     },
     {
       "id": 3,
