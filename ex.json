@@ -2,7 +2,8 @@
   "nodes": [
     {
       "id": 1,
-      "name": "Abstraction"
+      "name": "Abstraction",
+      "def": "cheese"
     },
     {
       "id": 2,
