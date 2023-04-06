@@ -3,83 +3,102 @@
     {
       "id": 1,
       "name": "Abstraction",
-      "definition": "Making one solution work for multiple problems by making it more general"
+      "definition": "Making one solution work for multiple problems by making it more general",
+      "n": 1, "grp": 1
+      
+      
     },
     {
       "id": 2,
       "name": "Algorithm",
-      "definition": ["A list of steps to finish a task. A set of instructions that can be done with or without a computer."," For example, a list of steps to make a peanut butter and jelly sandwich is an algorithm."]
-
+      "definition": ["A list of steps to finish a task. A set of instructions that can be done with or without a computer."," For example, a list of steps to make a peanut butter and jelly sandwich is an algorithm."],
+      "n": 1, "grp": 1
+      
     },
     {
       "id": 3,
       "name": "App",
-      "definition": "A type of application software, often meant to run on a mobile device, such as a phone or computer."
+      "definition": "A type of application software, often meant to run on a mobile device, such as a phone or computer.",
+      "n": 1, "grp": 1
+      
     },
     {
       "id": 4,
       "name": "Artifact",
-      "definition": "Anything created by a human. See computational artifact for the computer science-specific definition."
+      "definition": "Anything created by a human. See computational artifact for the computer science-specific definition.",
+      "n": 1, "grp": 2
     },
     {
       "id": 5,
       "name": "ASCII",
-      "definition": ["(American Standard Code for Information Interchange) is the way most text files are written on computers and the Internet."," In an ASCII file, each letter, number or special character is represented by a code, a string of seven 0s or 1s (also known as a 7-bit binary number)."]
+      "definition": ["(American Standard Code for Information Interchange) is the way most text files are written on computers and the Internet."," In an ASCII file, each letter, number or special character is represented by a code, a string of seven 0s or 1s (also known as a 7-bit binary number)."],
+      "n": 1, "grp": 1
     },
     {
       "id": 6,
       "name": "Automation",
-      "definition": "The process of changing a system or software to allow it to complete their tasks without help from humans."
+      "definition": "The process of changing a system or software to allow it to complete their tasks without help from humans.",
+      "n": 1, "grp": 2
     },
     {
       "id": 7,
       "name": "Backup", 
-      "definition": "The process of making copies of data or data files to use if the original data or data files are lost or destroyed."
+      "definition": "The process of making copies of data or data files to use if the original data or data files are lost or destroyed.",
+      "n": 1, "grp": 2
     },
     {
       "id": 8,
       "name": "Binary",
-      "definition": "Binary is the language computers use. It uses 0’s and 1’s to represent information, like letters and numbers. "
+      "definition": "Binary is the language computers use. It uses 0’s and 1’s to represent information, like letters and numbers. ",
+      "n": 1, "grp": 2
     },
     {
       "id": 9,
       "name": "Bits",
-      "definition": "Stands for binary digits. The smallest unit used to measure computer data."
+      "definition": "Stands for binary digits. The smallest unit used to measure computer data.",
+      "n": 1, "grp": 2
     },
     {
       "id": 10,
       "name": "Block-based programming language",
-      "definition": ["Any programming language that lets users make programs by dragging and dropping blocks, instead of writing code using text.", " (Also known as visual coding, drag and drop programming, or graphical programming blocks)"]
+      "definition": ["Any programming language that lets users make programs by dragging and dropping blocks, instead of writing code using text.", " (Also known as visual coding, drag and drop programming, or graphical programming blocks)"],
+      "n": 1, "grp": 1
     },
     {
       "id": 11,
       "name": "Bug",
-      "definition": ["An error in a software program. ", " It can cause a program to stop working or act in a way it is not supposed to. Removing errors (bugs) is called debugging."]
+      "definition": ["An error in a software program. ", " It can cause a program to stop working or act in a way it is not supposed to. Removing errors (bugs) is called debugging."],
+      "n": 1, "grp": 1
     },
     {
       "id": 12,
       "name": "Byte",
-      "definition": "8 bits"
+      "definition": "8 bits",
+      "n": 1, "grp": 2
     },
     {
       "id": 13,
       "name": "Cipher",
-      "definition": "A system for encrypting and decrypting data."
+      "definition": "A system for encrypting and decrypting data.",
+      "n": 1, "grp": 3
     }, 
     {
       "id": 14,
       "name": "Cloud",
-      "definition": "Servers that save information. They can be in a different location and are reached using the Internet."
+      "definition": "Servers that save information. They can be in a different location and are reached using the Internet.",
+      "n": 1, "grp": 1
     }, 
     {
       "id": 15,
       "name": "Code",
-      "definition": "Any instructions written in a programming language to be given to a computer to follow. See also: program, commands, algorithm"
+      "definition": "Any instructions written in a programming language to be given to a computer to follow. See also: program, commands, algorithm",
+      "n": 1, "grp": 1
     }, 
       {
       "id": 16,
       "name": "Command",
-      "definition": "An instruction for the computer. Algorithms and computer programs are made by putting many commands together."
+      "definition": "An instruction for the computer. Algorithms and computer programs are made by putting many commands together.",
+       "n": 1, "grp": 1
     },
     {
       "id": 17,
@@ -89,377 +108,453 @@
     {
       "id": 18,
       "name": "Computational models",
-      "definition": "Computational modeling is the use of computers to simulate and study difficult systems using math and computer science."
+      "definition": "Computational modeling is the use of computers to simulate and study difficult systems using math and computer science.",
+      "n": 1, "grp": 1
     },
     {
       "id": 19,
       "name": "Computational thinking",
-      "definition": ["A way of solving complicated problems and creating solutions that a computer can understand."," Strategies include decomposition (breaking problems into smaller pieces), pattern matching, abstraction"," (making changes that allow one solution to work for multiple problems), and algorithms (instructions that a computer can use)."]
+      "definition": ["A way of solving complicated problems and creating solutions that a computer can understand."," Strategies include decomposition (breaking problems into smaller pieces), pattern matching, abstraction"," (making changes that allow one solution to work for multiple problems), and algorithms (instructions that a computer can use)."],
+      "n": 1, "grp": 4
     },
     {
       "id": 20,
       "name": "Computer science",
       "definition": "The study of how computers and programs work and how they are created and used."
+      "n": 1, "grp": 4
     },
     {
       "id": 21,
       "name": "Conditionals",
-      "definition": "A statement that will happen if a specific situation is true. For example, if it is cold outside, you will wear a jacket. "
+      "definition": "A statement that will happen if a specific situation is true. For example, if it is cold outside, you will wear a jacket. ",
+      "n": 1, "grp": 1
     },
     {
       "id": 22,
       "name": "CPU: Stands for “central processing unit”. It is the brain of the computer and can understand binary code. See",
-      "definition": "processor"
+      "definition": "processor",
+      "n": 1, "grp": 2
     },
     {
       "id": 23,
       "name": "Data",
       "definition": "Information, such as numbers, words and measurements. Computer programs often need data and will also give us data."
+      "n": 1, "grp": 5
     },
     {
       "id": 24,
       "name": "Debugging",
-      "definition": "Finding and fixing problems (errors/bugs) in programs."
+      "definition": "Finding and fixing problems (errors/bugs) in programs.",
+      "n": 1, "grp": 1
     },
     {
       "id": 25,
       "name": "Decode",
-      "definition": "The opposite of encode. To convert data back to its original form using a code that is available to the public."
+      "definition": "The opposite of encode. To convert data back to its original form using a code that is available to the public.",
+      "n": 1, "grp": 1
     },
     {
       "id": 26,
       "name": "Decompose",
-      "definition": "Break a problem down into smaller pieces."
+      "definition": "Break a problem down into smaller pieces.",
+      "n": 1, "grp": 1
     },
     {
       "id": 27,
       "name": "Decryption",
-      "definition": ["The opposite of encryption. To convert data that has been written using a secret key, back to a language we can understand."," The process of changing a coded message back to a language that you or the computer can understand. It is the opposite of encryption, where you are converting information into a code."]
+      "definition": ["The opposite of encryption. To convert data that has been written using a secret key, back to a language we can understand."," The process of changing a coded message back to a language that you or the computer can understand. It is the opposite of encryption, where you are converting information into a code."],
+      "n": 1, "grp": 3
     },
     {
       "id": 28,
       "name": "Digital divide",
-      "definition": "the gap between those who can easily access computers and the Internet, and those who do not."
+      "definition": "the gap between those who can easily access computers and the Internet, and those who do not.",
+      "n": 1, "grp": 4
     },
     {
       "id": 29,
       "name": "Encode",
-      "definition": ["To convert messages or information into another form using a code. ","This is different from encryption, because this code is available to the public and the goal is to make data easier to work with for computers or humans."]
+      "definition": ["To convert messages or information into another form using a code. ","This is different from encryption, because this code is available to the public and the goal is to make data easier to work with for computers or humans."],
+      "n": 1, "grp": 1
     },
     {
       "id": 30,
       "name": "Encryption",
-      "definition": ["To change messages or information into a code. This is different from encode, "," because this code is only known by the two groups who have the key; it is used to keep data private."]
+      "definition": ["To change messages or information into a code. This is different from encode, "," because this code is only known by the two groups who have the key; it is used to keep data private."],
+      "n": 1, "grp": 3
     },
     {
       "id": 31,
       "name": "Event",
-      "definition": "An action that causes something to happen."
+      "definition": "An action that causes something to happen.",
+      "n": 1, "grp": 1
     },
     {
       "id": 32,
       "name": "Execution",
-      "definition": "The process of following instructions."
+      "definition": "The process of following instructions.",
+      "n": 1, "grp": 1
     },
     {
       "id": 33,
       "name": "For loop",
-      "definition": "Used to run pieces of code over and over again."
+      "definition": "Used to run pieces of code over and over again.",
+      "n": 1, "grp": 1
     },
     {
       "id": 34,
       "name": "Function:",
-      "definition": ["A piece of code that you can easily call over and over again. Each time a function is called,"," a specific set of instructions will be followedThis definition differs from that used in math. Also known as a subroutine."]
+      "definition": ["A piece of code that you can easily call over and over again. Each time a function is called,"," a specific set of instructions will be followedThis definition differs from that used in math. Also known as a subroutine."],
+      "n": 1, "grp": 1
     },
     {
       "id": 35,
       "name": "GPS",
-      "definition": "Abbreviation for Global Positioning System. GPS is a system that uses satellites in space to find where an object is on Earth."
+      "definition": "Abbreviation for Global Positioning System. GPS is a system that uses satellites in space to find where an object is on Earth.",
+      "n": 1, "grp": 2
     },
     {
       "id": 36,
       "name": "Hacking",
-      "definition": "Using a computer to get data without permission. "
+      "definition": "Using a computer to get data without permission. ",
+      "n": 1, "grp": 3
     },
     {
       "id": 37,
       "name": "Hardware",
-      "definition": "The physical parts of a computer, computing system, or computing device. "
+      "definition": "The physical parts of a computer, computing system, or computing device. ",
+      "n": 1, "grp": 2
     },
     {
       "id": 38,
       "name": "Hierarchy",
-      "definition": "A system where items are ranked by importance."
+      "definition": "A system where items are ranked by importance.",
+      "n": 1, "grp": 2
     },
     {
       "id": 39,
       "name": "HTTP",
-      "definition": "(Hypertext Transfer Protocol) is the set of rules for moving files (text, images, sound, video, and other files) on the World Wide Web."
+      "definition": "(Hypertext Transfer Protocol) is the set of rules for moving files (text, images, sound, video, and other files) on the World Wide Web.",
+      "n": 1, "grp": 3
     },
     {
       "id": 40,
       "name": "HTTPS",
-      "definition": "Is the same as HTTP, except more safe. It encrypts and decrypts information, which prevents hackers from stealing it."
+      "definition": "Is the same as HTTP, except more safe. It encrypts and decrypts information, which prevents hackers from stealing it.",
+      "n": 1, "grp": 3
     },
     {
       "id": 41,
       "name": "Input",
-      "definition": "The signals or instructions sent to a computer."
+      "definition": "The signals or instructions sent to a computer.",
+      "n": 1, "grp": 3
     },
     {
       "id": 42,
       "name": "Intercept",
-      "definition": "When someone without permission stops data from being transmitted (sent) to its destination."
+      "definition": "When someone without permission stops data from being transmitted (sent) to its destination.",
+      "n": 1, "grp": 3
     },
     {
       "id": 43,
       "name": "Internet",
-      "definition": "The collection of millions of computers and servers that are connected around the world to share and move information."
+      "definition": "The collection of millions of computers and servers that are connected around the world to share and move information.",
+      "n": 1, "grp": 3
     },
     {
       "id": 44,
       "name": "Iterative",
-      "definition": "Repeating an action to reach a goal, target, or result."
+      "definition": "Repeating an action to reach a goal, target, or result.",
+      "n": 1, "grp": 1
     },
     {
       "id": 45,
       "name": "Logic (Boolean)",
-      "definition": "A type of algebra where all expressions are true or false. Uses AND, OR, NOT, and other combinations."
+      "definition": "A type of algebra where all expressions are true or false. Uses AND, OR, NOT, and other combinations.",
+      "n": 1, "grp": 1
     },
     {
       "id": 46,
       "name": "Loop",
-      "definition": "A set of instructions that repeats while a specific condition is true. For example, for as long as this number is less than 100, add 3 to it."
+      "definition": "A set of instructions that repeats while a specific condition is true. For example, for as long as this number is less than 100, add 3 to it.",
+      "n": 1, "grp": 1
     },
     {
       "id": 47,
       "name": "Looping",
-      "definition": "Repetition, using a loop. The action of doing something over and over again."
+      "definition": "Repetition, using a loop. The action of doing something over and over again.",
+      "n": 1, "grp": 1
     },
     {
       "id": 48,
       "name": "Lossless",
-      "definition": "Making data take up less space without losing information."
+      "definition": "Making data take up less space without losing information.",
+      "n": 1, "grp": 5
     },
     {
       "id": 49,
       "name": "Lossy",
-      "definition": "Making data take up less space by throwing away information that is not important."
+      "definition": "Making data take up less space by throwing away information that is not important.",
+      "n": 1, "grp": 5
     },
     {
       "id": 50,
       "name": "Memory",
-      "definition": "Where computing devices store information for a short amount of time (temporary)."
+      "definition": "Where computing devices store information for a short amount of time (temporary).",
+      "n": 1, "grp": 5
     },
     {
       "id": 51,
       "name": "Model",
-      "definition": "A representation of (some part of) a problem or a system. Note: This definition differs from that used in science."
+      "definition": "A representation of (some part of) a problem or a system. Note: This definition differs from that used in science.",
+      "n": 1, "grp": 2
     },
     {
       "id": 52,
       "name": "Nested loop",
-      "definition": "A loop that is inside another loop."
+      "definition": "A loop that is inside another loop.",
+      "n": 1, "grp": 1
     },
     {
       "id": 53,
       "name": "Network",
-      "definition": "A group of computing devices (personal computers, phones, servers, switches, routers, etc.) connected by cables or wirelessly to share and receive information."
+      "definition": "A group of computing devices (personal computers, phones, servers, switches, routers, etc.) connected by cables or wirelessly to share and receive information.",
+      "n": 1, "grp": 3
     },
     {
       "id": 54,
       "name": "Open source",
-      "definition": "A type of free software that is available to everyone. It has code available to the public, so anyone can see how it works and change it to make it work differently."
+      "definition": "A type of free software that is available to everyone. It has code available to the public, so anyone can see how it works and change it to make it work differently.",
+      "n": 1, "grp": 2
     },
     {
       "id": 55,
       "name": "Operating system (OS)",
-      "definition": "Software that a computing device needs to turn on and run. It allows programs to run and works with the hardware. Every desktop computer, tablet, and smartphone has an operating system."
+      "definition": "Software that a computing device needs to turn on and run. It allows programs to run and works with the hardware. Every desktop computer, tablet, and smartphone has an operating system.",
+      "n": 1, "grp": 2
     },
     {
       "id": 56,
       "name": "Operation",
-      "definition": "An action, resulting from a single instruction that changes the state of data."
+      "definition": "An action, resulting from a single instruction that changes the state of data.",
+      "n": 1, "grp": 5
     },
     {
       "id": 57,
       "name": "Packets",
-      "definition": "Small chunks of information that have been made from larger chunks of information."
+      "definition": "Small chunks of information that have been made from larger chunks of information.",
+      "n": 1, "grp": 3
     },
     {
       "id": 58,
       "name": "Pair programming",
-      "definition": ["When two people work together on one computer to code. One person, the driver writes the code,"," and the navigator reviews and checks if the code is right. Then, after some time, they switch roles."]
+      "definition": ["When two people work together on one computer to code. One person, the driver writes the code,"," and the navigator reviews and checks if the code is right. Then, after some time, they switch roles."],
+      "n": 1, "grp": 1
     },
     {
       "id": 58,
       "name": "Paradigm (programming)",
-      "definition": "A group of ideas about how something should be done, made, or thought about."
+      "definition": "A group of ideas about how something should be done, made, or thought about.",
+      "n": 1, "grp": 1
     },
     {
       "id": 59,
       "name": "Parallelism",
-      "definition": "When instructions are split up by multiple processors and carried out at the same time. It can make tasks on computing devices finish faster."
+      "definition": "When instructions are split up by multiple processors and carried out at the same time. It can make tasks on computing devices finish faster.",
+      "n": 1, "grp": 1
     },
     {
       "id": 60,
       "name": "Parameter",
-      "definition": "Stored names of information that we want to use for a subroutine or function."
+      "definition": "Stored names of information that we want to use for a subroutine or function.",
+      "n": 1, "grp": 1
     },
     {
       "id": 61,
       "name": "Pattern matching",
-      "definition": "Finding similarities between things."
+      "definition": "Finding similarities between things.",
+      "n": 1, "grp": 5
     },
     {
       "id": 62,
       "name": "Persistence",
-      "definition": "Trying again and again, even when something is very hard."
+      "definition": "Trying again and again, even when something is very hard.",
+      "n": 1, "grp": 4
+      
     },
     {
       "id": 63,
       "name": "Piracy",
-      "definition": "The illegal copying, sharing, or use of software."
+      "definition": "The illegal copying, sharing, or use of software.",
+      "n": 1, "grp": 3
     },
     {
       "id": 64,
       "name": "Procedure",
-      "definition": "Commands for a computer that can be used many times in a program. It can be a  function or a subroutine. "
+      "definition": "Commands for a computer that can be used many times in a program. It can be a  function or a subroutine. ",
+      "n": 1, "grp": 1
     },
     {
       "id": 65,
       "name": "Processor",
-      "definition": "The hardware inside a computer or phone that executes a program. The CPU (central processing unit) is similar to the brain of a computer."
+      "definition": "The hardware inside a computer or phone that executes a program. The CPU (central processing unit) is similar to the brain of a computer.",
+      "n": 1, "grp": 2
     },
     {
       "id": 66,
       "name": "Program (n)",
-      "definition": "A set of instructions that the computer follows in order to reach a specific goal. "
+      "definition": "A set of instructions that the computer follows in order to reach a specific goal. ",
+      "n": 1, "grp": 2
     },
     {
       "id": 67,
       "name": "Program (v)",
-      "definition": "To create a program. "
+      "definition": "To create a program. ",
+      "n": 1, "grp": 1
     },
     {
       "id": 68,
       "name": "Programming (v)",
-      "definition": "The art of writing, testing, and fixing programs to solve problems."
+      "definition": "The art of writing, testing, and fixing programs to solve problems.",
+      "n": 1, "grp": 1
     },
     {
       "id": 69,
       "name": "Protocol",
-      "definition": "The special set of rules that end points in a telecommunication connection use when they communicate. Protocols specify interactions between the communicating entities."
+      "definition": "The special set of rules that end points in a telecommunication connection use when they communicate. Protocols specify interactions between the communicating entities.",
+      "n": 1, "grp": 3
     },
     {
       "id": 70,
       "name": "Prototype",
-      "definition": "A rough draft of a final product or information system."
+      "definition": "A rough draft of a final product or information system.",
+      "n": 1, "grp": 2
     },
     {
       "id": 71,
       "name": "Pseudocode",
-      "definition": "An explanation of the instructions a computer must follow (also known as a computer program or algorithm) in regular words, instead of in programming language. "
+      "definition": "An explanation of the instructions a computer must follow (also known as a computer program or algorithm) in regular words, instead of in programming language. ",
+      "n": 1, "grp": 1
     },
     {
       "id": 72,
       "name": "Remix",
-      "definition": "making changes to an existing procedure."
+      "definition": "making changes to an existing procedure.",
+      "n": 1, "grp": 1
     },
     {
       "id": 73,
       "name": "RGB",
-      "definition": "(red, green, and blue) A system used to show the colors on computer screens. Using different amounts of red, green, and blue can be used to make any color."
+      "definition": "(red, green, and blue) A system used to show the colors on computer screens. Using different amounts of red, green, and blue can be used to make any color.",
+      "n": 1, "grp": 2
     },
     {
       "id": 74,
       "name": "Routing (v)",
-      "definition": "Finding paths that exist between different things in a topology."
+      "definition": "Finding paths that exist between different things in a topology.",
+      "n": 1, "grp": 3
     },
     {
       "id": 75,
       "name": "Router (n)",
-      "definition": "A special type of computer that decides which data link a packet needs to be sent over next. "
+      "definition": "A special type of computer that decides which data link a packet needs to be sent over next. ",
+      "n": 1, "grp": 3
     },
     {
       "id": 76,
       "name": "Run program",
-      "definition": "Cause the computer to follow the commands written in a set of instructions to reach a specific goal."
+      "definition": "Cause the computer to follow the commands written in a set of instructions to reach a specific goal.",
+      "n": 1, "grp": 2
     },
     {
       "id": 77,
       "name": "Security",
-      "definition": "The use of technology to protect and keep computing resources from being entered or changed."
+      "definition": "The use of technology to protect and keep computing resources from being entered or changed.",
+      "n": 1, "grp": 3
     },
     {
       "id": 78,
       "name": "Servers",
-      "definition": "Computers that exist only to provide data or processor power to other computers.."
+      "definition": "Computers that exist only to provide data or processor power to other computers..",
+      "n": 1, "grp": 3
     },
     {
       "id": 79,
       "name": "Simulate",
-      "definition": "To mimic real world actions."
+      "definition": "To mimic real world actions.",
+      "n": 1, "grp": 4
     },
     {
       "id": 80,
       "name": "Software",
-      "definition": "The instructions, programs or data used to tell computers what to do and how to complete specific jobs."
+      "definition": "The instructions, programs or data used to tell computers what to do and how to complete specific jobs.",
+      "n": 1, "grp": 2
     },
     {
       "id": 81,
       "name": "SMTP",
-      "definition": "The rules for sending email messages on the internet. "
+      "definition": "The rules for sending email messages on the internet. ",
+      "n": 1, "grp": 3
     },
     {
       "id": 82,
       "name": "Storage",
-      "definition": "A place (usually a device) where data can be kept, stored and used later, either for a short amount of time or permanently."
+      "definition": "A place (usually a device) where data can be kept, stored and used later, either for a short amount of time or permanently.",
+      "n": 1, "grp": 5
     },
     {
       "id": 83,
       "name": "String",
-      "definition": "A group of letters, numbers, and/or other symbols. A string could be used to stand for a name, address, or song title. "
+      "definition": "A group of letters, numbers, and/or other symbols. A string could be used to stand for a name, address, or song title. ",
+      "n": 1, "grp": 1
     },
     {
       "id": 84,
       "name": "Structure",
-      "definition": "A collection of parts."
+      "definition": "A collection of parts.",
+      "n": 1, "grp": 1
     },
     {
       "id": 85,
       "name": "Switch",
-      "definition": "A fast device that receives packets of information and sends them to their final location on a nearby network. "
+      "definition": "A fast device that receives packets of information and sends them to their final location on a nearby network. ",
+      "n": 1, "grp": 3
     },
     {
       "id": 86,
       "name": "System",
-      "definition": "A collection of computing hardware and software that work together to finish shared jobs, for a common goal."
+      "definition": "A collection of computing hardware and software that work together to finish shared jobs, for a common goal.",
+      "n": 1, "grp": 2
     },
     {
       "id": 87,
       "name": "Topology",
-      "definition":[ "A special kind of map that focuses on showing the connections that exist between different things."," For example, an internet topology would look at how different computers are connected together with data links."]
+      "definition":[ "A special kind of map that focuses on showing the connections that exist between different things."," For example, an internet topology would look at how different computers are connected together with data links."],
+      "n": 1, "grp": 3
     },
     {
       "id": 88,
       "name": "Troubleshooting",
-      "definition": "To find where a problem is within a computer system or software, and solve it."
+      "definition": "To find where a problem is within a computer system or software, and solve it.",
+      "n": 1, "grp": 5
     },
     {
       "id": 89,
       "name": "User",
-      "definition": "A person that a hardware or software product is designed for."
+      "definition": "A person that a hardware or software product is designed for.",
+      "n": 1, "grp": 2
     },
     {
       "id": 90,
       "name": "Variable",
-      "definition": "A placeholder name that represents pieces of information, such as numbers and words. The value that the name points to can change."
+      "definition": "A placeholder name that represents pieces of information, such as numbers and words. The value that the name points to can change.",
+      "n": 1, "grp": 1
     },
     {
       "id": 91,
       "name": "Wearable computing",
-      "definition": "Miniature electronic devices that are worn under, with or on top of clothing."
+      "definition": "Miniature electronic devices that are worn under, with or on top of clothing.",
+      "n": 1, "grp": 2
     }
 
   ],
