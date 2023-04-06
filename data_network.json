@@ -161,7 +161,7 @@
     {
       "id": 23,
       "name": "Data",
-      "definition": "Information, such as numbers, words and measurements. Computer programs often need data and will also give us data."
+      "definition": "Information, such as numbers, words and measurements. Computer programs often need data and will also give us data.",
       "n": 1, 
       "grp": 5
     },
