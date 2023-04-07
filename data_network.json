@@ -69,7 +69,7 @@
     },
     {
       "id": 10,
-      "name": "Block-based programming language",
+      "name": "Block-based programming",
       "definition": ["Any programming language that lets users make programs by dragging and dropping blocks, instead of writing code using text.", " (Also known as visual coding, drag and drop programming, or graphical programming blocks)"],
       "n": 1, 
       "grp": 1
