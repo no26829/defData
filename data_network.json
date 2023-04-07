@@ -153,8 +153,8 @@
     },
     {
       "id": 22,
-      "name": "CPU: Stands for “central processing unit”. It is the brain of the computer and can understand binary code. See",
-      "definition": "processor",
+      "name": "CPU",
+      "definition": "Stands for “central processing unit”. It is the brain of the computer and can understand binary code",
       "n": 1, 
       "grp": 2
     },
@@ -412,7 +412,7 @@
     },
     {
       "id": 58,
-      "name": "Paradigm (programming)",
+      "name": "Paradigm",
       "definition": "A group of ideas about how something should be done, made, or thought about.",
       "n": 1, 
       "grp": 1
